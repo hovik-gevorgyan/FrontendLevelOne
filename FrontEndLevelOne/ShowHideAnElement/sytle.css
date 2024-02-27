@@ -1,0 +1,11 @@
+#changeButton {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(128, 128, 158);
+    color: white;
+}
+
+#text {
+    margin: 10px;
+    margin-top: 20px;
+}

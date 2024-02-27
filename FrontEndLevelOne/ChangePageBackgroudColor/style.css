@@ -1,0 +1,33 @@
+
+#upperButtons {
+    background-color: blanchedalmond;
+}
+
+#oneBtn {
+    margin:  10px;
+    padding: 10px;
+    background-color: rgb(185, 122, 122);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#twoBtn {
+    margin:  10px;
+    padding: 10px;
+    background-color: #7a7eb9;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#threeBtn {
+    margin:  10px;
+    padding: 10px;
+    background-color: rgb(154, 185, 122);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+

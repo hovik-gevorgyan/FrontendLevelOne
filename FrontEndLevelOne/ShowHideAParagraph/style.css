@@ -1,0 +1,15 @@
+
+    #mainDiv {
+        padding: 10px;
+        background-color: rgb(224, 238, 238);
+        border: none;
+        border-radius: 10px;
+        margin: 10px;
+    }
+
+    #hideText {
+        padding: 10px;
+        background-color: aquamarine;
+        border-radius: 10px;
+        font-size: 15px;
+    }

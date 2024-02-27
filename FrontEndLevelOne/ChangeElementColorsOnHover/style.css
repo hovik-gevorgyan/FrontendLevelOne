@@ -1,0 +1,15 @@
+
+       .item {
+         padding: 10px;
+         margin:  5px;
+         background-color: lightcoral;
+         display: inline-block;
+         cursor: pointer;
+         transition: background-color 0.3s;
+
+       }
+
+       .item:hover {
+        background-color: lightblue;
+       }
+    
