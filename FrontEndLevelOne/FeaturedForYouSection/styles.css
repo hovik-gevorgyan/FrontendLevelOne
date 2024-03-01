@@ -1,0 +1,38 @@
+#movieCard {
+    background-color: rgb(19, 16, 16);
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  #movieCard img {
+    width: 100%;
+    height: auto;
+  }
+
+  #movieInfo {
+    padding: 20px;
+    color: white;
+    height: auto;
+  }
+
+  #movieTitle {
+    font-size: 1.5rem;
+    margin: 0;
+
+  }
+
+  #movieDescription {
+    margin: 10px 0;
+  }
+
+  #movieContainer {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2px;
+  }
+  
